@@ -1,0 +1,17 @@
+.form  {
+    text-align: center;
+    margin: 3rem auto;
+    margin-top: 100px;
+    width: 70rem;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+}
+label{
+    margin: auto 10px;
+    
+}
+button{
+    margin-top: 10px;
+}
